@@ -25,6 +25,8 @@ The microarray expression values are fluorescence intensities they have already 
 
 Genotype information was not included in the full dataset, therefore a genotype table was manually created and merged with the expression data. 
 
+The data consists of 15 samples and 
+
 **Mouse IDs and Their Associated Genotypes:**
 
 - GSM636860:    WT_R6_rep1
