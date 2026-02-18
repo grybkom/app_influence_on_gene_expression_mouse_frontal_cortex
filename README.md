@@ -10,4 +10,4 @@ Aydin, D., Filippov, M. A., Tschäpe, J., Gretz, N., Prinz, M., Eils, R., Brors,
 
 Cha, H. J., Shen, J., & Kang, J. (2022). Regulation of gene expression by the APP family in the adult cerebral cortex. Scientific Reports, 12(1), 66. https://doi.org/10.1038/s41598-021-04027-8
 Tackenberg, C., & Nitsch, R. M. (2019). The secreted APP ectodomain sAPPα, but not sAPPβ, protects neurons against Aβ oligomer-induced dendritic spine loss and increased tau phosphorylation. Molecular Brain, 12(1), 27. https://doi.org/10.1186/s13041-019-0447-2
-<img width="468" height="489" alt="image" src="https://github.com/user-attachments/assets/5a557866-210b-4738-a1e3-b26f00bc6f2b" />
+
