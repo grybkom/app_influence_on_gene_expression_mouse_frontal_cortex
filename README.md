@@ -42,3 +42,11 @@ Genotype information was not included in the full dataset, therefore a genotype 
 - GSM636872:	APLP2_R1_rep1
 - GSM636873:	APLP2_R1_rep2
 - GSM636874:	APLP2_R1_rep3
+
+# EDA
+
+![app_sample_expression_distributions](https://github.com/user-attachments/assets/2a54dfc6-5289-4839-8e0a-a320e478da51)
+
+![app_cluster_map](https://github.com/user-attachments/assets/c16927c0-a497-4315-9672-57788f5eefe7)
+
+![app_cluster_map_by_genotype](https://github.com/user-attachments/assets/26e422f3-341e-4570-99fc-0db6aba0c3ea)
