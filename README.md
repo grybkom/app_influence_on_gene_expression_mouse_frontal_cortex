@@ -3,7 +3,7 @@ Analysis of DNA microarray gene expression data from mouse frontal cortex to exa
 
 ## Background
 
-Amyloid precursor protein (APP) and its proteolytic processing products, particularly amyloid-β (Aβ), have long been implicated in the pathogenesis of Alzheimer’s disease (AD) (Aydin et al., 2011 and Cha et al., 2022). While APP accumulation and altered processing are central to AD pathology, the broader transcriptional consequences of APP loss or modification in the adult brain remain incompletely understood.
+Amyloid precursor protein (APP) and its proteolytic processing products, particularly amyloid-β (Aβ), have long been implicated in the pathogenesis of Alzheimer’s disease (AD) (Aydin et al., 2011, and Cha et al., 2022). While APP accumulation and altered processing are central to AD pathology, the broader transcriptional consequences of APP loss or modification in the adult brain remain incompletely understood.
 
 In this study, DNA microarray transcriptomic profiling of mouse frontal cortical tissue is used to examine how genetic manipulation of APP and related family members influences gene expression (Aydin et al., 2011). Five experimental conditions are analyzed: control wildtype mice (WT_R6), APP homozygous knockout mice (APP_R6), APPsa knock-in mice (APPsa_R6) that expresses only a soluble fragment released from the amyloid precursor protein and is considered neuroprotective (Tackenberg & Nitsch, 2019), and two homozygous APLP2 knockout mouse lines, APLP2_R6 (backcrossed six generations to C57BL/6) and APLP2_R1(backcrossed for one generation). APLP2 is a homolog of APP (Cha et al., 2022). 
 
