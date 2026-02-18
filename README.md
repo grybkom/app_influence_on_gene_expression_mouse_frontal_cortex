@@ -17,3 +17,28 @@ Cha, H. J., Shen, J., & Kang, J. (2022). Regulation of gene expression by the AP
 
 Tackenberg, C., & Nitsch, R. M. (2019). The secreted APP ectodomain sAPPα, but not sAPPβ, protects neurons against Aβ oligomer-induced dendritic spine loss and increased tau phosphorylation. Molecular Brain, 12(1), 27. https://doi.org/10.1186/s13041-019-0447-2
 
+## Data Cleaning and Processing
+
+The data used in this study can be accesses through the Gene Expression Omnibus (GEO) hosted by the National Center for Biotechnology Information (NCBI). The data accession viewer for this project: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE25926
+
+The microarray expression values are fluorescence intensities they have already been log-transformed. 
+
+Genotype information was not included in the full dataset, therefore a genotype table was manually created and merged with the expression data. 
+
+**Mouse IDs and Their Associated Genotypes:**
+
+- GSM636860:    WT_R6_rep1
+- GSM636861:	WT_R6_rep2
+- GSM636862:	WT_R6_rep3
+- GSM636863:	APP_R6_rep1
+- GSM636864:    APP_R6_rep2
+- GSM636865:	APP_R6_rep3
+- GSM636866:	APPsa_R6_rep1
+- GSM636867:	APPsa_R6_rep2
+- GSM636868:	APPsa_R6_rep3
+- GSM636869:	APLP2_R6_rep1
+- GSM636870:	APLP2_R6_rep2
+- GSM636871:	APLP2_R6_rep3
+- GSM636872:	APLP2_R1_rep1
+- GSM636873:	APLP2_R1_rep2
+- GSM636874:	APLP2_R1_rep3
