@@ -49,7 +49,7 @@ The data consists of 15 samples and
 
 ![app_sample_expression_distributions](https://github.com/user-attachments/assets/2a54dfc6-5289-4839-8e0a-a320e478da51)
 
-![app_cluster_map](https://github.com/user-attachments/assets/c16927c0-a497-4315-9672-57788f5eefe7)
+![app_cluster_map](https://github.com/user-attachments/assets/24e13c3f-1491-4c4b-9a55-753a62523b41)
 
 ![app_cluster_map_by_genotype](https://github.com/user-attachments/assets/fffce27c-da4b-4de2-9ec6-007ef93f8fc6)
 
