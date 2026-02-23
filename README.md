@@ -55,10 +55,10 @@ There is substantial overlap, 37 out of 50 genes, between the highly variable ge
 The persistence of wild-type heterogeneity in both the variance-based and PC1-based heatmaps suggests that this variability reflects structured differences rather than random noise. The PCA scatterplot indicates that the divergent WT sample does not represent a global outlier.
 
 
-<figcaption><strong>Cluster Heat Map of Top 50 genes Selected by Variance</strong></figcaption>
-
+<figcaption><strong>Cluster Heat Map of Top 50 Genes Selected by Variance</strong></figcaption>
 ![app_cluster_map_by_genotype](https://github.com/user-attachments/assets/6651eaac-e442-4aaa-882e-9a95a9209f49)
 
+<figcaption><strong>Cluster Heat Map of Top 50 Genes Contributing to PC1</strong></figcaption>
 ![app_pc1_cluster_map_by_genotype](https://github.com/user-attachments/assets/b8c42ff5-b965-4a67-b3f9-1c44b0533e70)
 
 ![app_pca_scatter_plot](https://github.com/user-attachments/assets/0a6f1e60-c2bd-4fb2-9ff4-05a0f9812cde)
