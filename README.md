@@ -1,4 +1,4 @@
-# APPs Influence on Gene Expression in the Mouse Frontal Cortex
+# APP's Influence on Gene Expression in the Mouse Frontal Cortex
 Analysis of DNA microarray gene expression data from mouse frontal cortex to examine transcriptional changes associated with genetic manipulation of APP and related family members.
 
 ## Background
