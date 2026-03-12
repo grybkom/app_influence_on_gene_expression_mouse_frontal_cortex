@@ -62,7 +62,7 @@ Genes previously linked to Alzheimer’s disease and present in this dataset inc
 
 Consistent with earlier clustering results, sample GSM636862 continued to display a distinctive expression pattern relative to other wild-type samples. Visual inspection of the heatmap suggests that Bdnf and Bcl2 expression may be reduced in the APP_R6 genotype compared with WT_R6, a trend that has been reported previously in models of amyloid precursor protein dysregulation (Paradis et al., 1996; Xue et al., 2022).
 
-![app_alz_cluster_map_by_genotype](https://github.com/user-attachments/assets/336fc44e-834a-4e37-a928-55c91d330a7a)
+![app_alz_cluster_map_by_genotype](https://github.com/user-attachments/assets/a9b2075c-fb23-4b92-9526-3fa427687616)
 
 # References
 
