@@ -41,7 +41,7 @@ The data consists of 15 samples and
 
 ![app_sample_expression_distributions](https://github.com/user-attachments/assets/2a54dfc6-5289-4839-8e0a-a320e478da51)
 
-## Comparison of the top 50 genes selected by variance and the top 50 genes contributing to Principal Component 1
+## Comparison of Genes Selected by Variance and Genes Selected by Principal Component 1
 There is substantial overlap, 37 out of 50 genes, between the highly variable genes and the genes selected for PC1. Indicating that the primary axis of structured variation in the dataset is largely driven by highly variable genes.
 
 The persistence of wild-type heterogeneity in both the variance-based and PC1-based heatmaps suggests that this variability reflects structured differences rather than random noise. The PCA scatterplot indicates that the divergent WT sample does not represent a global outlier.
@@ -57,7 +57,7 @@ The persistence of wild-type heterogeneity in both the variance-based and PC1-ba
 
 ![app_pca_scatter_plot](https://github.com/user-attachments/assets/0a6f1e60-c2bd-4fb2-9ff4-05a0f9812cde)
 
-## Exploration of genes with a known link to Alzheimer’s disease
+## Expression of Genes Associated with Alzheimer’s Disease 
 Genes previously linked to Alzheimer’s disease and present in this dataset include Abcg4, Ache, Aldh2, Arsb, Bcl2, Bdnf, Crh, Egr2, Fos, Gstz1, Hspa1a, Hspa1b, Hspa5, and Ppp1r3c (Aydin et al., 2011). To examine whether these genes exhibit genotype-specific expression patterns, a heatmap grouped by genotype was constructed.
 
 Consistent with earlier clustering results, sample GSM636862 continued to display a distinctive expression pattern relative to other wild-type samples. Visual inspection of the heatmap suggests that Bdnf and Bcl2 expression may be reduced in the APP_R6 genotype compared with WT_R6, a trend that has been reported previously in models of amyloid precursor protein dysregulation (Paradis et al., 1996; Xue et al., 2022).
