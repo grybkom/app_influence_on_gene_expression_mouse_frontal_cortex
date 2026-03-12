@@ -41,8 +41,8 @@ The data consists of 15 samples and
 
 ![app_sample_expression_distributions](https://github.com/user-attachments/assets/2a54dfc6-5289-4839-8e0a-a320e478da51)
 
-## Comparison of Genes Selected by Variance and Genes Selected by Principal Component 1
-There is substantial overlap, 37 out of 50 genes, between the highly variable genes and the genes selected for PC1. Indicating that the primary axis of structured variation in the dataset is largely driven by highly variable genes.
+## Comparison of Genes Selected by Variance and Genes Selected by PC1
+There is substantial overlap, 37 out of 50 genes, between the highly variable genes and the genes selected for Principal Component 1 (PC1). Indicating that the primary axis of structured variation in the dataset is largely driven by highly variable genes.
 
 The persistence of wild-type heterogeneity in both the variance-based and PC1-based heatmaps suggests that this variability reflects structured differences rather than random noise. The PCA scatterplot indicates that the divergent WT sample does not represent a global outlier.
 
