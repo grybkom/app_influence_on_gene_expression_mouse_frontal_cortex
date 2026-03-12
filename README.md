@@ -1,7 +1,7 @@
 # APP's Influence on Gene Expression in the Mouse Frontal Cortex
 Analysis of DNA microarray gene expression data from mouse frontal cortex to examine transcriptional changes associated with genetic manipulation of APP and related family members.
 
-## Background
+# Background
 
 Amyloid precursor protein (APP) and its proteolytic processing products, particularly amyloid-β (Aβ), have long been implicated in the pathogenesis of Alzheimer’s disease (AD) (Aydin et al., 2011, and Cha et al., 2022). While APP accumulation and altered processing are central to AD pathology, the broader transcriptional consequences of APP loss or modification in the adult brain remain incompletely understood.
 
@@ -9,15 +9,7 @@ In this study, DNA microarray transcriptomic profiling of mouse frontal cortical
 
 DNA microarray technology is a hybridization-based approach used to measure expression levels of predefined genes. Gene-specific probe sequences are immobilized on a chip and hybridized with labeled complementary DNA (cDNA) derived from tissue RNA. Gene expression levels are inferred from fluorescence intensity, enabling genome-wide comparison of transcriptional changes across experimental conditions.
 
-**References:**
-
-Aydin, D., Filippov, M. A., Tschäpe, J., Gretz, N., Prinz, M., Eils, R., Brors, B., & Müller, U. C. (2011). Comparative transcriptome profiling of amyloid precursor protein family members in the adult cortex. BMC Genomics, 12(1), 160. https://doi.org/10.1186/1471-2164-12-160
-
-Cha, H. J., Shen, J., & Kang, J. (2022). Regulation of gene expression by the APP family in the adult cerebral cortex. Scientific Reports, 12(1), 66. https://doi.org/10.1038/s41598-021-04027-8
-
-Tackenberg, C., & Nitsch, R. M. (2019). The secreted APP ectodomain sAPPα, but not sAPPβ, protects neurons against Aβ oligomer-induced dendritic spine loss and increased tau phosphorylation. Molecular Brain, 12(1), 27. https://doi.org/10.1186/s13041-019-0447-2
-
-## Data Cleaning and Processing
+# Data Cleaning and Processing
 
 The data used in this study can be accesses through the Gene Expression Omnibus (GEO) hosted by the National Center for Biotechnology Information (NCBI). The data accession viewer for this project: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE25926
 
@@ -65,7 +57,24 @@ The persistence of wild-type heterogeneity in both the variance-based and PC1-ba
 
 ![app_pca_scatter_plot](https://github.com/user-attachments/assets/0a6f1e60-c2bd-4fb2-9ff4-05a0f9812cde)
 
+## Exploration of genes with a known link to Alzheimer’s disease
+Genes previously linked to Alzheimer’s disease and present in this dataset include Abcg4, Ache, Aldh2, Arsb, Bcl2, Bdnf, Crh, Egr2, Fos, Gstz1, Hspa1a, Hspa1b, Hspa5, and Ppp1r3c (Aydin et al., 2011). To examine whether these genes exhibit genotype-specific expression patterns, a heatmap grouped by genotype was constructed.
 
+Consistent with earlier clustering results, sample GSM636862 continued to display a distinctive expression pattern relative to other wild-type samples. Visual inspection of the heatmap suggests that Bdnf and Bcl2 expression may be reduced in the APP_R6 genotype compared with WT_R6, a trend that has been reported previously in models of amyloid precursor protein dysregulation (Paradis et al., 1996; Xue et al., 2022).
 
+![app_alz_cluster_map_by_genotype](https://github.com/user-attachments/assets/336fc44e-834a-4e37-a928-55c91d330a7a)
 
+# References
 
+Aydin, D., Filippov, M. A., Tschäpe, J., Gretz, N., Prinz, M., Eils, R., Brors, B., & Müller, U. C. (2011). Comparative transcriptome profiling of amyloid precursor protein family members in the adult cortex. BMC Genomics, 12(1), 160. https://doi.org/10.1186/1471-2164-12-160
+
+Cha, H. J., Shen, J., & Kang, J. (2022). Regulation of gene expression by the APP family in the adult cerebral cortex. Scientific Reports, 12(1), 66. https://doi.org/10.1038/s41598-021-04027-8
+
+Paradis, E., Douillard, H., Koutroumanis, M., Goodyer, C., & LeBlanc, A. (1996). Amyloid β Peptide of Alzheimer’s Disease Downregulates Bcl-2 and Upregulates Bax Expression in Human Neurons. Journal of Neuroscience, 16(23), 7533–7539. https://doi.org/10.1523/jneurosci.16-23-07533.1996
+
+Tackenberg, C., & Nitsch, R. M. (2019). The secreted APP ectodomain sAPPα, but not sAPPβ, protects neurons against Aβ oligomer-induced dendritic spine loss and increased tau phosphorylation. Molecular Brain, 12(1), 27. https://doi.org/10.1186/s13041-019-0447-2
+
+Xue, B., Waseem, S. M. A., Zhu, Z., Alshahrani, M. A., Nazam, N., Anjum, F., Habib, A. H., Rafeeq, M. M., Nazam, F., & Sharma, M. (2022). Brain-Derived Neurotrophic Factor: a connecting link between nutrition, lifestyle, and Alzheimer’s disease. Frontiers in Neuroscience, 16, 925991. https://doi.org/10.3389/fnins.2022.925991
+
+# Author
+Michael Grybko - GitHub username: grybkom
